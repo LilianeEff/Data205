@@ -1,0 +1,607 @@
+School Year,School Number,School Name,Principal,Phone,Associate Superintendent,Cluster,Attendance Rate,Drop out rate,Mobility Rate (Entrants + Withdrawals),Grade 12 Documented Decision - College,Grade 12 Documented Decision - Employment,Grade 12 Documented Decision - Military,Grade 12 Documented Decision - College - Employment,Graduation Rate,Students Meeting University System of Maryland Requirements,Location 1
+2014,502,Olney ES,Mrs. Carla Glawe,(301) 924-3126,Dr. Myra J. Smith,Sherwood,95,,5,,,,,,,"3401 Queen Mary Drive
+Olney, MD 20832
+(39.148399674000075, -77.06708266199996)"
+2014,413,North Bethesda MS,Mr. Alton E. Sumner,(301) 571-3883,Dr. Darryl L. Williams,Walter Johnson,95,,5.8,,,,,,,"8935 Bradmoor Drive
+Bethesda, MD 20817
+(39.00351917800003, -77.12505057499999)"
+2014,206,Twinbrook ES,Mrs. Karen L. Johnson,(301) 230-5925,Dr. Donna S. Hollingshead,Richard Montgomery,95,,19.6,,,,,,,"5911 Ridgway Avenue
+Rockville, MD 20851
+(39.06705777600007, -77.12016871099996)"
+2014,554,Gaithersburg MS,Ms. Carol L. Goddard,(301) 840-4554,Dr. Darryl L. Williams,Gaithersburg,95,,14.1,,,,,,,"2 Teachers' Way
+Gaithersburg, MD 20877
+(39.14296664500006, -77.18805885099994)"
+2014,951,Longview School,Ms. Michelle M. Mach,(301) 601-4830,Dr. LaVerne G. Kimball,Northwest,84.7,,5,,,,,,,"13900 Bromfield Road
+Germantown, MD 20874
+(39.15125064800003, -77.29453251399997)"
+2014,233,Fallsmead ES,Mrs. Roni S. Silverstein,(301) 279-4984,Dr. Donna S. Hollingshead,Thomas S. Wootton,95,,8.8,,,,,,,"1800 Greenplace Terrace
+Rockville, MD 20850
+(39.07866347600003, -77.17719733499996)"
+2014,551,Gaithersburg HS,Dr. Christine C. Handy-Collins,(301) 284-4500,Dr. Christopher S. Garran,Gaithersburg,92.4,10.1,16.9,85.6,5,5,60.9,76.9,64.9,"101 Education Boulevard
+Gaithersburg, MD 20877
+(39.13492033400007, -77.19405581999996)"
+2014,159,Rachel Carson ES,Mr. Lawrence D. Chep,(301) 840-5333,Dr. LaVerne G. Kimball,Quince Orchard,95,,8,,,,,,,"100 Tschiffely Square Road
+Gaithersburg, MD 20878
+(39.115972173000046, -77.24639887199999)"
+2014,703,Cedar Grove ES,Mr. Lee F. Derby,(301) 253-7000,Dr. LaVerne G. Kimball,"Clarksburg, Damascus",95,,12.4,,,,,,,"24001 Ridge Road
+Germantown, MD 20876
+(39.249363739000046, -77.23366270799994)"
+2014,101,Clarksburg ES,Mrs. Kwang J. Lee,(301) 353-8060,Dr. LaVerne G. Kimball,Clarksburg,95,,15,,,,,,,"13530 Redgrave Place
+Clarksburg, MD 20871
+(39.236916791000056, -77.28218299099996)"
+2014,125,Quince Orchard HS,Mrs. Carole A. Working,(301) 840-4686,Dr. Christopher S. Garran,Quince Orchard,94.7,5,8.3,94.1,5,5,58.9,88.3,82.7,"15800 Quince Orchard Road
+Gaithersburg, MD 20878
+(39.11529771600004, -77.25298592899998)"
+2014,794,Rosemary Hills ES,Mrs. Deborah C. Ryan,(301) 650-6400,Dr. Donna S. Hollingshead,Bethesda-Chevy Chase,94.8,,9,,,,,,,"2111 Porter Road Silver Spring
+MD 20910
+(39.00077622100008, -77.04552619899994)"
+2014,309,Burnt Mills ES,Ms. Lisa O. Thomas,(301) 649-8192,Dr. Myra J. Smith,Northeast Consortium,95,,23,,,,,,,"11211 Childs Street Silver Spring
+MD 20901
+(39.03874423000008, -77.00282721699995)"
+2014,546,Goshen ES,Mrs. Yolanda R. Allen,(301) 840-8165,Dr. Myra J. Smith,Gaithersburg,95,,14.7,,,,,,,"8701 Warfield Road
+Gaithersburg, MD 20882
+(39.19328191900007, -77.17985125699994)"
+2014,105,Ridgeview MS,Mrs. Monifa B. McKnight,(240) 406-1300,Dr. Darryl L. Williams,Quince Orchard,95,,9.7,,,,,,,"16600 Raven Rock Drive
+Gaithersburg, MD 20878
+(39.127493257000026, -77.24784801299995)"
+2014,563,Summit Hall ES,Mr. Keith R. Jones,(301) 840-7127,Dr. Myra J. Smith,Gaithersburg,95,,22.7,,,,,,,"101 West Deer Park Road
+Gaithersburg, MD 20877
+(39.134722287000045, -77.20516707699994)"
+2014,607,Bells Mill ES,Mrs. Jerri L. Oglesby,(301) 469-1046,Dr. Donna S. Hollingshead,Winston Churchill,95,,5,,,,,,,"8225 Bells Mill Road
+Potomac, MD 20854
+(39.031317451000064, -77.16877310999996)"
+2014,335,Briggs Chaney MS,Dr. Tamitha E. Campbell,(301) 989-6000,Dr. Darryl L. Williams,Northeast Consortium,94.8,,13.2,,,,,,,"1901 Rainbow Drive Silver Spring
+MD 20905
+(39.11086407400006, -76.97217193899996)"
+2014,817,Glenallan ES,Mr. Peter O. Moran,(301) 929-2014,Ms. Bronda L. Mills,Downcounty Consortium,94.8,,20.4,,,,,,,"12520 Heurich Road Silver Spring
+MD 20902
+(39.06104149400005, -77.03959420599995)"
+2014,797,Harmony Hills ES,Dr. Carole E. Rawlison,(301) 929-2157,Ms. Bronda L. Mills,Downcounty Consortium,95,,22.9,,,,,,,"13407 Lydia Street Silver Spring
+MD 20906
+(39.076723936000064, -77.07688502899998)"
+2014,408,Westbrook ES,Ms. Jennifer S. Lane,(301) 320-6506,Dr. Donna S. Hollingshead,Bethesda-Chevy Chase,95,,6.7,,,,,,,"5110 Allan Terrace
+Bethesda, MD 20816
+(38.956305057000066, -77.10301008199997)"
+2014,780,Bel Pre ES,Mrs. Carmen L. Van Zutphen,(301) 460-2145,Ms. Bronda L. Mills,Downcounty Consortium,94.6,,21.4,,,,,,,"15101 Bauer Drive
+Rockville, MD 20852
+(39.10319777500007, -77.10466408699995)"
+2014,788,Wheaton Woods ES,Mr. David T. Chia,(301) 929-2018,Ms. Bronda L. Mills,Downcounty Consortium,95,,16.9,,,,,,,"4510 Faroe Place
+Rockville, MD 20853
+(39.068815648000054, -77.08895496299994)"
+2014,249,Clarksburg HS,Mr. James P. Koutsos,(301) 444-3000,Dr. Christopher S. Garran,Clarksburg,95,6.5,10.4,92.7,5,5,61.9,88.6,71.8,"22500 Wims Road
+Clarksburg, MD 20871
+(39.22539552200004, -77.26484390499996)"
+2014,110,S. Christa McAuliffe ES,Mrs. Wanda P. Coates,(301) 353-0910,Dr. LaVerne G. Kimball,Seneca Valley,95,,15.1,,,,,,,"12500 Wisteria Drive
+Germantown, MD 20874
+(39.16573850800006, -77.25919377699995)"
+2014,311,Francis Scott Key MS,Ms. Yolanda Stanislaus,(301) 422-5600,Dr. Darryl L. Williams,Northeast Consortium,95,,16.1,,,,,,,"910 Schindler Dr Silver Spring
+MD 20903
+(39.02773270200004, -76.99076285399997)"
+2014,107,"Dr. Martin Luther King, Jr.  MS",Ms. Dana E. Davison,(301) 353-8080,Dr. Darryl L. Williams,Seneca Valley,95,,13,,,,,,,"13737 Wisteria Drive
+Germantown, MD 20874
+(39.179717123000046, -77.28551312299999)"
+2014,606,Cabin John MS,Dr. Paulette L. Smith,(301) 469-1150,Dr. Darryl L. Williams,"Churchill, Wootton",95,,5,,,,,,,"10701 Gainsborough Road
+Potomac, MD 20854
+(39.03062590800005, -77.17275466099994)"
+2014,789,Albert Einstein HS,Mr. James G. Fernandez,(301) 929-2200,Dr. Christopher S. Garran,Downcounty Consortium,93.7,12.1,12.8,89.7,5,5,65,79.5,61.8,"11135 Newport Mill Road
+Kensington, MD 20895
+(39.03948563100005, -77.07014333899997)"
+2014,334,Greencastle ES,"Mr. R. Kevin Payne, Jr.",(301) 595-2940,Dr. Myra J. Smith,Northeast Consortium,95,,25,,,,,,,"13611 Robey Road Silver Spring
+MD 20904
+(39.08121586300007, -76.94190610499999)"
+2014,100,Clopper Mill ES,Dr. Ocheze Joseph,(301) 353-8065,Dr. LaVerne G. Kimball,Northwest,95,,23.8,,,,,,,"18501 Cinnamon Drive
+Germantown, MD 20874
+(39.15774160500007, -77.26336742799998)"
+2014,111,Capt. James E. Daly ES,Mrs. Nora G. Dietz,(301) 353-0939,Dr. LaVerne G. Kimball,Clarksburg,95,,16.5,,,,,,,"20301 Brandermill Drive
+Germantown, MD 20876
+(39.190431568000065, -77.23384919199998)"
+2014,558,Whetstone ES,Mrs. Victoria (Vicky) A. Casey,(301) 840-7191,Dr. LaVerne G. Kimball,Watkins Mill,94.6,,15,,,,,,,"19201 Thomas Farm Road
+Gaithersburg, MD 20879
+(39.16687650100005, -77.18454855899995)"
+2014,791,New Hampshire Estates ES,Ms. Marinda Thomas Evans,(301) 431-7607,Ms. Bronda L. Mills,Downcounty Consortium,95,,20.6,,,,,,,"8720 Carroll Avenue Silver Spring
+MD 20903
+(38.99786325300005, -76.99167200399995)"
+2014,812,Parkland MS,Dr. Benjamin T. OuYang,(301) 438-5700,Dr. Darryl L. Williams,Downcounty Consortium,95,,5.1,,,,,,,"4610 West Frankfort Drive
+Rockville, MD 20853
+(39.08516742100005, -77.09097962599998)"
+2014,764,Woodlin ES,Mrs. Shoua F. Moua,(301) 650-6440,Ms. Bronda L. Mills,Downcounty Consortium,95,,13.5,,,,,,,"2101 Luzerne Avenue Silver Spring
+MD 20910
+(39.006018819000076, -77.04673181399994)"
+2014,823,Argyle MS,Mr. Robert W. Dodd,(301) 460-2400,Dr. Darryl L. Williams,Downcounty Consortium,95,,13.3,,,,,,,"2400 Bel Pre Road Silver Spring
+MD 20906
+(39.09043011000006, -77.04984846399998)"
+2014,783,Kensington Parkwood ES,Ms. Barbara A. Liess,(301) 571-6949,Dr. Donna S. Hollingshead,Walter Johnson,95,,7.7,,,,,,,"4710 Saul Road
+Kensington, MD 20895
+(39.021695296000075, -77.09432836399998)"
+2014,769,Oakland Terrace ES,Mrs. Cheryl D. Pulliam,(301) 929-2161,Ms. Bronda L. Mills,Downcounty Consortium,95,,9.2,,,,,,,"2720 Plyers Mill Road Silver Spring
+MD 20902
+(39.02970286300007, -77.05642309799998)"
+2014,549,Flower Hill ES,Mr. Lamar Whitmore,(301) 840-7161,Dr. Myra J. Smith,Col. Zadok Magruder,94.6,,14.2,,,,,,,"18425 Flower Hill Way
+Gaithersburg, MD 20879
+(39.15880706300004, -77.17204558999998)"
+2014,749,Piney Branch ES,Mrs. Rachel C. DuBois,(301) 891-8000,Ms. Bronda L. Mills,Downcounty Consortium,95,,7.3,,,,,,,"7510 Maple Avenue Takoma Park
+MD 20912
+(38.98148775400006, -77.00957990199998)"
+2014,157,Roberto W. Clemente MS,Mrs. Khadija F. Barkley,(301) 601-0344,Dr. Darryl L. Williams,"Northwest, S. Valley",95,,11.6,,,,,,,"18808 Waring Station Road
+Germantown, MD 20874
+(39.16520107500003, -77.24691510099996)"
+2014,706,Clearspring ES,Mrs. Holly A. Steel,(301) 253-7004,Dr. LaVerne G. Kimball,Damascus,95,,8.1,,,,,,,"9930 Moyer Road
+Damascus, MD 20872
+(39.26665488000003, -77.20737915999996)"
+2014,211,Julius West MS,Mr. Craig W. Staton,(301) 279-3979,Dr. Darryl L. Williams,Richard Montgomery,95,,10,,,,,,,"651 Great Falls Road
+Rockville, MD 20850
+(39.07757596300007, -77.16235162099997)"
+2014,340,Great Seneca Creek ES,Mr. Scott T. Curry,(301) 353-8500,Dr. LaVerne G. Kimball,Northwest,95,,12.8,,,,,,,"13010 Dairymaid Drive
+Germantown, MD 20874
+(39.15283001300003, -77.26874194099997)"
+2014,778,Sligo MS,Mr. Eric  Wilson,(301) 649-8121,Dr. Darryl L. Williams,Downcounty Consortium,94.6,,26,,,,,,,"1401 Dennis Avenue Silver Spring
+MD 20902
+(39.02576917600004, -77.03214467699996)"
+2014,819,Rock Creek Valley ES,Ms. Catherine A. Jasperse,(301) 460-2195,Dr. Donna S. Hollingshead,Rockville,95,,6.6,,,,,,,"5121 Russett Road
+Rockville, MD 20853
+(39.08243267200004, -77.10282917399996)"
+2014,403,Chevy Chase ES,Mrs. Jody L. Smith,(301) 657-4994,Dr. Donna S. Hollingshead,Bethesda-Chevy Chase,95,,5,,,,,,,"4015 Rosemary Street
+Chevy Chase, MD 20815
+(38.97787807700007, -77.08010041499995)"
+2014,424,Walter Johnson HS,Mrs. Jennifer A. Baker,(301) 803-7100,Dr. Christopher S. Garran,Walter Johnson,95,5,7,94.3,5,5,51.2,95,82.6,"6400 Rock Spring Drive
+Bethesda, MD 20814
+(39.02687136800006, -77.12644415299997)"
+2014,511,Cashell ES,Ms. Maureen Ahern,(301) 924-3130,Dr. Myra J. Smith,Col. Zadok Magruder,95,,7.7,,,,,,,"17101 Cashell Road
+Rockville, MD 20853
+(39.13685839900006, -77.08662348299998)"
+2014,773,Rock Creek Forest ES,Ms. Jennifer H. Lowndes,(301) 650-6410,Dr. Donna S. Hollingshead,Bethesda-Chevy Chase,95,,6.9,,,,,,,"7000 Radnor Road
+Bethesda, MD 20817
+(38.97924530600005, -77.11408330599994)"
+2014,784,Highland View ES,Miss Anne M. Dardarian,(301) 650-6426,Ms. Bronda L. Mills,Downcounty Consortium,95,,11.9,,,,,,,"9010 Providence Avenue Silver Spring
+MD 20901
+(39.00455340100007, -77.01018802099998)"
+2014,647,Silver Spring International MS,Mr. John W. Haas,(301) 650-6544,Dr. Darryl L. Williams,Downcounty Consortium,95,,10.6,,,,,,,"313 Wayne Avenue Silver Spring
+MD 20910
+(38.99981752300005, -77.01413458599995)"
+2014,410,Bradley Hills ES,Ms. Sandra S. Reece,(301) 571-6966,Dr. Donna S. Hollingshead,Walt Whitman,95,,7.4,,,,,,,"8701 Hartsdale Avenue
+Bethesda, MD 20817
+(38.99864219500006, -77.11780883799997)"
+2014,412,Westland MS,Ms. Alison L. Serino,(301) 320-6515,Dr. Darryl L. Williams,Bethesda-Chevy Chase,95,,5.8,,,,,,,"5511 Massachusetts Avenue
+Bethesda, MD 20816
+(38.958430271000054, -77.11007173399997)"
+2014,604,Carderock Springs ES,Mr. Rock A. Palmisano,(301) 469-1034,Dr. Donna S. Hollingshead,Walt Whitman,95,,5,,,,,,,"7401 Persimmon Tree Lane
+Bethesda, MD 20817
+(38.98238959300005, -77.17295948599997)"
+2014,219,Farmland ES,Mrs. Mary E. Bliss,(301) 230-5919,Dr. Donna S. Hollingshead,Walter Johnson,95,,18.9,,,,,,,"7000 Old Gate Road
+Rockville, MD 20852
+(39.04766372100005, -77.14462934899996)"
+2014,601,Potomac ES,Mrs. Linda Z. Goldberg,(301) 469-1042,Dr. Donna S. Hollingshead,Winston Churchill,95,,8.6,,,,,,,"10311 River Road
+Potomac, MD 20854
+(39.02057849500005, -77.21264276099998)"
+2014,754,Takoma Park ES,Mrs. Zadia T. Gadsden,(301) 650-6414,Ms. Bronda L. Mills,Downcounty Consortium,95,,10.8,,,,,,,"7511 Holly Avenue Takoma Park
+MD 20912
+(38.98278333900004, -77.01313510899996)"
+2014,158,Ronald McNair ES,Mrs. Eileen K. Macfarlane,(301) 353-0854,Dr. LaVerne G. Kimball,Northwest,95,,6.6,,,,,,,"13881 Hopkins Road
+Germantown, MD 20874
+(39.16782837100004, -77.29149971099997)"
+2014,313,Galway ES,"Mrs. Dorothea A. Fuller, Acting",(301) 595-2930,Dr. Myra J. Smith,Northeast Consortium,95,,16.8,,,,,,,"12612 Galway Drive Silver Spring
+MD 20904
+(39.064644059000045, -76.94482330199997)"
+2014,336,Little Bennett ES,Mr. Shawn D. Miller,(301) 540-5535,Dr. LaVerne G. Kimball,Clarksburg,95,,8.4,,,,,,,"23930 Burdette Forest Road
+Clarksburg, MD 20871
+(39.24586265500005, -77.27500437999998)"
+2014,822,Strathmore ES,Mrs. Cheryl L. Smith,(301) 460-2135,Ms. Bronda L. Mills,Downcounty Consortium,95,,14.4,,,,,,,"3200 Beaverwood Lane Silver Spring
+MD 20906
+(39.08673414000003, -77.06517836599994)"
+2014,761,Pine Crest ES,Mrs. Cynthia A. Houston,(301) 649-8066,Ms. Bronda L. Mills,Downcounty Consortium,95,,12.6,,,,,,,"201 Woodmoor Drive Silver Spring
+MD 20901
+(39.02075333100004, -77.00522168599997)"
+2014,799,Stephen Knolls School,"Ms. Kim Redgrave, Acting",(301) 929-2151,Ms. Bronda L. Mills,Downcounty Consortium,84.3,,15.2,,,,,,,"10731 St Margaret's Way
+Kensington, MD 20895
+(39.02866622100004, -77.07759624899995)"
+2014,564,South Lake ES,Ms. Celeste D. King,(301) 840-7141,Dr. LaVerne G. Kimball,Watkins Mill,94.8,,25,,,,,,,"18201 Contour Road
+Gaithersburg, MD 20877
+(39.15485243200004, -77.19711924299997)"
+2014,708,Kingsview MS,Mr. James N. D'Andrea,(301) 601-4611,Dr. Darryl L. Williams,Northwest,95,,6.1,,,,,,,"18909 Kingsview Road
+Germantown, MD 20874
+(39.16503849900005, -77.28698651699995)"
+2014,771,Rolling Terrace ES,Mrs. Jennifer L. Connors,(301) 431-7600,Ms. Bronda L. Mills,Downcounty Consortium,95,,12.4,,,,,,,"705 Bayfield Street Takoma Park
+MD 20912
+(38.995755917000054, -76.99708729499997)"
+2014,415,North Chevy Chase ES,Ms. Renee D. Wallace-Stevens,(301) 657-4950,Dr. Donna S. Hollingshead,Bethesda-Chevy Chase,95,,5.8,,,,,,,"3700 Jones Bridge Road
+Chevy Chase, MD 20815
+(38.99937274200005, -77.07349438399996)"
+2014,241,DuFief ES,Mr. Brent Mascott,(301) 279-4980,Dr. Donna S. Hollingshead,Thomas S. Wootton,95,,6.1,,,,,,,"15001 DuFief Drive
+Gaithersburg, MD 20878
+(39.10150615300006, -77.23846014599997)"
+2014,774,Highland ES,Mr. Scott R. Steffan,(301) 929-2040,Ms. Bronda L. Mills,Downcounty Consortium,94.8,,14.8,,,,,,,"3100 Medway Street Silver Spring
+MD 20902
+(39.050621628000044, -77.06279429499995)"
+2014,215,Carl Sandburg Learning Center,Ms. Marlene (Marlene) Kenny,(301) 279-8490,Dr. Myra J. Smith,Sherwood,93.5,,20,,,,,,,"451 Meadow Hall Drive
+Rockville, MD 20851
+(39.07584275700003, -77.11048056799996)"
+2014,653,Stone Mill ES,Ms. Kimberly A. Williams,(301) 279-4975,Dr. Donna S. Hollingshead,Thomas S. Wootton,95,,7.8,,,,,,,"14323 Stonebridge View Drive North
+Potomac, MD 20878
+(39.09056696500005, -77.21564940799993)"
+2014,756,East Silver Spring ES,Dr. Adrienne L. Morrow,(301) 650-6420,Ms. Bronda L. Mills,Downcounty Consortium,95,,16,,,,,,,"631 Silver Spring Avenue Silver Spring
+MD 20910
+(38.991978550000056, -77.01521081699997)"
+2014,216,Travilah ES,Mrs. Susan Shenk,(301) 840-7153,Dr. Donna S. Hollingshead,Thomas S. Wootton,95,,5.1,,,,,,,"13801 DuFief Mill Road North
+Potomac, MD 20878
+(39.08206739900004, -77.24951580099997)"
+2014,405,Somerset ES,Ms. Kelly Morris,(301) 657-4985,Dr. Donna S. Hollingshead,Bethesda-Chevy Chase,95,,11.2,,,,,,,"5811 Warwick Place
+Chevy Chase, MD 20815
+(38.968784269000025, -77.09293568199996)"
+2014,333,Benjamin Banneker MS,Ms. Ruschelle Reuben,(301) 989-5747,Dr. Darryl L. Williams,Northeast Consortium,95,,13.2,,,,,,,"14800 Perrywood Drive
+Burtonsville, MD 20866
+(39.09645228800008, -76.94712224799997)"
+2014,568,Stedwick ES,Dr. Margaret Pastor,(301) 840-7187,Dr. LaVerne G. Kimball,Watkins Mill,95,,22.6,,,,,,,"10631 Stedwick Road
+Gaithersburg, MD 20886
+(39.174621315000024, -77.21200304699994)"
+2014,242,Dr. Sally K. Ride ES,Mr. Christopher A. Wynne,(301) 353-0994,Dr. LaVerne G. Kimball,Seneca Valley,95,,11.8,,,,,,,"21301 Seneca Crossing Drive
+Germantown, MD 20876
+(39.20638937000007, -77.23847982399997)"
+2014,556,Mill Creek Towne ES,Mr. Kenneth L. Marcus,(301) 840-7149,Dr. Myra J. Smith,Col. Zadok Magruder,95,,9.5,,,,,,,"17700 Park Mill Drive
+Rockville, MD 20855
+(39.14599829900004, -77.15224132299994)"
+2014,316,Stonegate ES,Miss Audra M. Fladung,(301) 989-5668,Dr. Myra J. Smith,Northeast Consortium,95,,9.6,,,,,,,"14811 Notley Road Silver Spring
+MD 20905
+(39.098977423000065, -77.01665552699995)"
+2014,555,Rosemont ES,Mr. James (Jimmy) A. Sweeney,(301) 840-7123,Dr. Myra J. Smith,Gaithersburg,95,,18.4,,,,,,,"16400 Alden Avenue
+Gaithersburg, MD 20877
+(39.12516225400003, -77.18431888099997)"
+2014,406,Bethesda-Chevy Chase HS,Mrs. Karen L. Lockard,(240) 497-6300,Dr. Christopher S. Garran,Bethesda-Chevy Chase,95,5,7,94.8,5,5,41.4,94.4,87.7,"4301 East West Highway
+Bethesda, MD 20814
+(38.98567650500007, -77.08785638299997)"
+2014,360,Jones Lane ES,Mrs. Carole A. Sample,(301) 840-8160,Dr. LaVerne G. Kimball,Quince Orchard,95,,8.3,,,,,,,"15110 Jones Lane
+Gaithersburg, MD 20878
+(39.103240019000054, -77.26472602099994)"
+2014,562,Redland MS,"Mr. Robert Sinclair, Jr.",(301) 840-4680,Dr. Darryl L. Williams,Col. Zadok Magruder,95,,12.3,,,,,,,"6505 Muncaster Mill Road
+Rockville, MD 20855
+(39.139396876000035, -77.13221927399997)"
+2014,246,Northwest HS,Ms. E. Lancellotti (Lance) Dempsey,(301) 601-4660,Dr. Christopher S. Garran,Northwest,94.9,5.9,10,95,5,5,56.9,91.1,88.2,"13501 Richter Farm Road
+Germantown, MD 20874
+(39.149537913000074, -77.28004258599998)"
+2014,156,Lois P. Rockwell ES,Mrs. Cheryl A. Clark,(301) 253-7088,Dr. LaVerne G. Kimball,Damascus,95,,11.1,,,,,,,"24555 Cutsail Drive
+Damascus, MD 20872
+(39.25630623700005, -77.21510520899994)"
+2014,210,Maryvale ES,Ms. Karen Gregory,(301) 279-4990,Dr. Donna S. Hollingshead,Rockville,95,,14.6,,,,,,,"1000 First Street
+Rockville, MD 20850
+(39.09022374500006, -77.13616603199995)"
+2014,228,Herbert Hoover MS,Mrs. Yong-Mi Kim,(301) 469-1010,Dr. Darryl L. Williams,Winston Churchill,95,,5,,,,,,,"8810 Postoak Road
+Potomac, MD 20854
+(39.04681297900004, -77.17854045399997)"
+2014,770,Flora M. Singer ES,Mr. Kyle J. Heatwole,(301) 649-8000,Ms. Bronda L. Mills,Downcounty Consortium,95,,12.7,,,,,,,"2600 Hayden Drive Silver Spring
+MD 20902
+(39.01999733100007, -77.05359691599995)"
+2014,212,Meadow Hall ES,Mr. Cabell W. Lloyd,(301) 279-4988,Dr. Donna S. Hollingshead,Rockville,94.3,,18.6,,,,,,,"951 Twinbrook Parkway
+Rockville, MD 20851
+(39.083484706000036, -77.11606313099998)"
+2014,701,Damascus HS,Mrs. Jennifer L. Webster,(301) 253-7030,Dr. Christopher S. Garran,Damascus,95,5,6.1,95,5,5,63.5,92.3,82.7,"25921 Ridge Road
+Damascus, MD 20872
+(39.281807386000025, -77.21143519199995)"
+2014,775,Eastern MS,Ms. Casey B. Crouse,(301) 650-6650,Dr. Darryl L. Williams,Downcounty Consortium,95,,10.4,,,,,,,"300 University Boulevard
+East Silver Spring, MD 20901
+(39.023032743000044, -77.01690719999993)"
+2014,767,Glen Haven ES,Dr. Joanne Smith,(301) 649-8051,Ms. Bronda L. Mills,Downcounty Consortium,95,,29.1,,,,,,,"10900 Inwood Avenue Silver Spring
+MD 20902
+(39.03368726300005, -77.03604639999998)"
+2014,565,Sequoyah ES,Dr. Barbara (Bobbi) A. Jasper,(301) 840-5335,Dr. Myra J. Smith,Col. Zadok Magruder,95,,16.2,,,,,,,"17301 Bowie Mill Road
+Derwood, MD 20855
+(39.13923315300008, -77.11947349499997)"
+2014,104,Seneca Valley HS,Mr. Marc J. Cohen,(301) 353-8000,Dr. Christopher S. Garran,Seneca Valley,93.2,7.6,17.3,93.1,5,5,71.4,81.5,65.2,"19401 Crystal Rock Drive
+Germantown, MD 20874
+(39.17542872800004, -77.26568922899997)"
+2014,204,Garrett Park ES,Ms. Elaine L. Chang-Baxter,(301) 929-2170,Dr. Donna S. Hollingshead,Walter Johnson,95,,14.9,,,,,,,"4810 Oxford Street
+Kensington, MD 20895
+(39.02866622100004, -77.07759624899995)"
+2014,337,"William B. Gibbs, Jr. ES",Mrs. Kimberly B. Bosnic,(301) 353-0800,Dr. LaVerne G. Kimball,Clarksburg,95,,10.9,,,,,,,"12615 Royal Crown Drive
+Germantown, MD 20876
+(39.20511369400003, -77.25920777899995)"
+2014,115,Neelsville MS,Ms. Lily (Vicky) Lake-Parcan,(301) 353-8064,Dr. Darryl L. Williams,"Clarksburg, Watkins Mill",94.7,,19.1,,,,,,,"11700 Neelsville Church Road
+Germantown, MD 20876
+(39.19538524500007, -77.24241104099997)"
+2014,419,Burning Tree ES,Dr. Judith F. Lewis,(301) 320-6510,Dr. Donna S. Hollingshead,Walt Whitman,95,,5.3,,,,,,,"7900 Beech Tree Road
+Bethesda, MD 20817
+(38.98965670200005, -77.14200905999996)"
+2014,790,Arcola ES,Mr. Emmanuel J. Jean-Philippe,(301) 649-8590,Ms. Bronda L. Mills,Downcounty Consortium,93.9,,18.1,,,,,,,"1820 Franwall Avenue Silver Spring
+MD 20902
+(39.04599291200003, -77.03957005499996)"
+2014,803,Forest Knolls ES,Mr. Donald D. Masline,(301) 649-8060,Ms. Bronda L. Mills,Downcounty Consortium,95,,10.4,,,,,,,"10830 Eastwood Avenue Silver Spring
+MD 20901
+(39.03391815100008, -77.02091115499996)"
+2014,545,Watkins Mill HS,Mr. Scott W. Murphy,(301) 840-3959,Dr. Christopher S. Garran,Watkins Mill,92.8,5.1,14.1,84.8,5,5,65.5,85.3,62.8,"10301 Apple Ridge Road
+Gaithersburg, MD 20879
+(39.16687650100005, -77.18454855899995)"
+2014,798,Springbrook HS,Mr. Samuel A. Rivera,(301) 989-5700,Dr. Christopher S. Garran,Northeast Consortium,94.2,11.1,12.3,92.8,5,5,68.7,81.5,71.9,"201 Valley Brook Drive Silver Spring
+MD 20904
+(39.05836433500008, -77.00457113499994)"
+2014,518,Brooke Grove ES,Mrs. Gail M. West,(301) 924-3154,Dr. Myra J. Smith,Sherwood,95,,7.1,,,,,,,"2700 Spartan Road
+Olney, MD 20832
+(39.15762287500007, -77.05095016699994)"
+2014,229,College Gardens ES,Mrs. Stacey F. Rogovoy,(301) 279-8470,Dr. Donna S. Hollingshead,Richard Montgomery,95,,10.4,,,,,,,"1700 Yale Place
+Rockville, MD 20850
+(39.102718594000066, -77.16200230199996)"
+2014,422,Wyngate ES,Ms. Barbara J. Leister,(301) 571-6979,Dr. Donna S. Hollingshead,Walter Johnson,95,,5.9,,,,,,,"9300 Wadsworth Drive
+Bethesda, MD 20817
+(39.00853432200006, -77.12754537999996)"
+2014,557,Montgomery Village MS,Dr. Edgar E. Malker,(301) 840-4660,Dr. Darryl L. Williams,Watkins Mill,94.3,,19.2,,,,,,,"19300 Watkins Mill Road Montgomery Village
+MD 20886
+(39.171479859000044, -77.20868354299995)"
+2014,152,Poolesville HS,Miss. Deena Levine,(301) 972-7900,Dr. Christopher S. Garran,Poolesville,95,5,5,93.3,5,5,38.2,95,90.4,"17501 Willard Road
+Poolesville, MD 20837
+(39.14350130400004, -77.41990486599997)"
+2014,707,Rocky Hill MS,"Dr. Cynthia Eldridge, Acting",(301) 353-8282,Dr. Darryl L. Williams,"Clarksburg, Damascus",95,,7.6,,,,,,,"22401 Brick Haven Way
+Clarksburg, MD 20871
+(39.22092537200007, -77.26322671299994)"
+2014,155,Rosa M. Parks MS,Dr. Donna R. Jones,(301) 924-3180,Dr. Darryl L. Williams,Sherwood,95,,5,,,,,,,"19200 Olney Mill Road
+Olney, MD 20832
+(39.17097295200006, -77.08089909599994)"
+2014,766,Oak View ES,Ms. Peggy E. Salazar,(301) 650-6434,Ms. Bronda L. Mills,Downcounty Consortium,95,,12.4,,,,,,,"400 East Wayne Avenue Silver Spring
+MD 20901
+(39.003727215000026, -77.00217966199995)"
+2014,420,Bannockburn ES,Mr. Daniel Walder,(301) 320-6555,Dr. Donna S. Hollingshead,Walt Whitman,95,,6.2,,,,,,,"6520 Dalroy Lane
+Bethesda, MD 20817
+(38.97416872400004, -77.13701541499995)"
+2014,796,Northwood HS,Mrs. Mildred L. Charley-Greene,(301) 649-8088,Dr. Christopher S. Garran,Downcounty Consortium,92.9,13.1,16.4,92.7,5,5,60.7,81.6,71.5,"919 University Boulevard West
+Silver Spring, MD 20901
+(39.03372152500003, -77.02374799299997)"
+2014,747,Dr. Charles R. Drew ES,Mrs. Wanda L. Means Harris,(301) 989-6030,Dr. Myra J. Smith,Northeast Consortium,95,,14.8,,,,,,,"1200 Swingingdale Drive Silver Spring
+MD 20905
+(39.091342197000074, -76.98631780199997)"
+2014,805,Kemp Mill ES,Mr. Floyd D. Starnes,(301) 649-8046,Ms. Bronda L. Mills,Downcounty Consortium,94.9,,20.5,,,,,,,"411 Sisson Street Silver Spring
+MD 20902
+(39.04301682000005, -77.01710813299997)"
+2014,239,Alternative Programs,Dr. Ira K. Thomas,(301) 279-4920,Dr. Christopher S. Garran,Office of School Support and Improvement,75.4,74,95,83.3,10.3,8.3,83.3,12,5,"14501 Avery Road
+Rockville, MD 20853
+(39.09440718500008, -77.12356218099995)"
+2014,704,Woodfield ES,Mrs. Gayle J. Starr,(301) 253-7085,Dr. LaVerne G. Kimball,Damascus,95,,7.9,,,,,,,"24200 Woodfield Road
+Gaithersburg, MD 20882
+(39.253529238000056, -77.19771266799995)"
+2014,304,Broad Acres ES,Dr. Peter H. Bray,(301) 431-7616,Dr. Myra J. Smith,Northeast Consortium,95,,23.2,,,,,,,"710 Beacon Road Silver Spring
+MD 20903
+(39.007947827000066, -76.98435937699998)"
+2014,818,Col. E. Brooke Lee MS,"Mrs. Kimberly N. Hayden Williams, Acting",(301) 649-8100,Dr. Darryl L. Williams,Downcounty Consortium,94.7,,13,,,,,,,"11800 Monticello Avenue Silver Spring
+MD 20902
+(39.04933215500006, -77.02974048499993)"
+2014,705,John T. Baker MS,Mrs. Louise J. Worthington,(301) 253-7010,Dr. Darryl L. Williams,Damascus,95,,5,,,,,,,"25400 Oak Drive
+Damascus, MD 20872
+(39.27296131800006, -77.21861390799995)"
+2014,523,Spark M. Matsunaga ES,Mrs. Judy K. Brubaker,(301) 601-4350,Dr. LaVerne G. Kimball,Northwest,95,,6.3,,,,,,,"13902 Bromfield Road
+Germantown, Maryland 20874
+(39.151045303000046, -77.29454482799997)"
+2014,521,Shady Grove MS,Mr. Edward K. Owusu,(301) 548-7540,Dr. Darryl L. Williams,Col. Zadok Magruder,95,,12.3,,,,,,,"8100 Midcounty Highway
+Gaithersburg, MD 20877
+(39.14411431800005, -77.16269827999997)"
+2014,428,Thomas W. Pyle MS,Mr. Christopher B. Nardi,(301) 320-6540,Dr. Darryl L. Williams,Walt Whitman,95,,5.3,,,,,,,"6311 Wilson Lane
+Bethesda, MD 20817
+(38.98779177000006, -77.12946302999995)"
+2014,808,Cresthaven ES,Ms. Sherri A. Gorden,(301) 431-7622,Dr. Myra J. Smith,Northeast Consortium,94.8,,19.8,,,,,,,"1234 Cresthaven Drive Silver Spring
+MD 20903
+(39.02738125600007, -76.98682320199998)"
+2014,772,Viers Mill ES,Mr. Matthew A. Devan,(301) 929-2165,Ms. Bronda L. Mills,Downcounty Consortium,95,,9.8,,,,,,,"11711 Joseph Mill Road Silver Spring
+MD 20906
+(39.047842324000044, -77.08568898199997)"
+2014,425,Ashburton ES,Mrs. Charlene E. Garran,(301) 571-6959,Dr. Donna S. Hollingshead,Walter Johnson,95,,11.2,,,,,,,"6314 Lone Oak Drive
+Bethesda, MD 20817
+(39.02000059100004, -77.12821113899997)"
+2014,302,Burtonsville ES,Ms. Kimberly L. Kimber,(301) 989-5654,Dr. Myra J. Smith,Northeast Consortium,95,,11.8,,,,,,,"15516 Old Columbia Pike
+Burtonsville, MD 20866
+(39.109794848000035, -76.93478834199993)"
+2014,795,Rock View ES,Ms. Kristine A. Alexander,(301) 929-2002,Ms. Bronda L. Mills,Downcounty Consortium,95,,11.4,,,,,,,"3901 Denfeld Avenue
+Kensington, MD 20895
+(39.03873814600007, -77.07689015799997)"
+2014,209,Lakewood ES,Ms. Robin L. Malcotti,(301) 279-8465,Dr. Donna S. Hollingshead,Thomas S. Wootton,95,,8.7,,,,,,,"2534 Lindley Terrace
+Rockville, MD 20850
+(39.08592778000008, -77.19065822999994)"
+2014,106,Fox Chapel ES,Ms. Diana L. Zabetakis,(301) 353-8055,Dr. LaVerne G. Kimball,Clarksburg,95,,15.9,,,,,,,"19315 Archdale Road
+Germantown, MD 20876
+(39.17228273400008, -77.24302359599994)"
+2014,207,Beall ES,Mr. Elliot M. Alter,(301) 279-8460,Dr. Donna S. Hollingshead,Richard Montgomery,95,,10,,,,,,,"451 Beall Avenue
+Rockville, MD 20850
+(39.08727101300008, -77.16188957799994)"
+2014,321,James Hubert Blake HS,Mr. Christopher S. Berry,(301) 879-1300,Dr. Christopher S. Garran,Northeast Consortium,95,6.6,11.9,94.7,5,5,64,88.6,80.3,"300 Norwood Road Silver Spring
+MD 20905
+(39.11409019800004, -77.01473312799999)"
+2014,227,Ritchie Park ES,Ms. M. Catherine Long,(301) 279-8475,Dr. Donna S. Hollingshead,Richard Montgomery,95,,12.9,,,,,,,"1514 Dunster Road
+Rockville, MD 20854
+(39.06231844100006, -77.17386158599999)"
+2014,232,Tilden MS,Mrs. Irina LaGrange,(301) 230-5930,Dr. Darryl L. Williams,Walter Johnson,95,,12.3,,,,,,,"11211 Old Georgetown Road
+Rockville, MD 20852
+(39.03846736200006, -77.12280088199998)"
+2014,230,Rockville HS,Ms. Billie-Jean Bensen,(301) 517-8105,Dr. Christopher S. Garran,Rockville,95,6.5,9.9,92.9,5,5,55.7,85.7,79.4,"2100 Baltimore Road
+Rockville, MD 20851
+(39.08650089400004, -77.11670248399997)"
+2014,108,Lake Seneca ES,Ms. Teri D. Johnson,(301) 353-0929,Dr. LaVerne G. Kimball,Seneca Valley,95,,25.6,,,,,,,"13600 Wanegarden Drive
+Germantown, MD 20874
+(39.18569952200005, -77.28296610299998)"
+2014,569,Strawberry Knoll ES,Mr. Egon (Frank) Kaplan,(301) 840-7112,Dr. Myra J. Smith,Gaithersburg,95,,14.9,,,,,,,"18820 Strawberry Knoll Road
+Gaithersburg, MD 20879
+(39.16509737000007, -77.18194829999999)"
+2014,965,RICA,Mrs. Michelle E. Schultze,(301) 251-6900,Dr. Christopher S. Garran,Thomas S. Wootton,86.6,17.7,86,75.2,20.2,5,75.2,35.3,27.3,"15000 Broschart Road
+Rockville, MD 20850
+(39.10185691800007, -77.20027979899999)"
+2014,238,Cold Spring ES,Mr. Martin J. Barnett,(301) 279-8480,Dr. Donna S. Hollingshead,Thomas S. Wootton,95,,5,,,,,,,"9201 Falls Chapel Way
+Potomac, MD 20854
+(39.05931222700008, -77.18744708199995)"
+2014,401,Bethesda ES,Ms. Lisa S. Seymour,(301) 657-4979,Dr. Donna S. Hollingshead,"B-CC, Walt Whitman",95,,16.3,,,,,,,"7600 Arlington Road
+Bethesda, MD 20814
+(38.98627014600004, -77.09873626899997)"
+2014,315,Paint Branch HS,Dr. Myriam A. Rogers,(301) 388-9900,Dr. Christopher S. Garran,Northeast Consortium,95,8.1,11.5,93,5,5,74.1,87.5,71.7,"14121 Old Columbia Pike
+Burtonsville, MD 20866
+(39.08797795400005, -76.94909413699997)"
+2014,652,Monocacy ES,Ms. Cynthia R. Duranko,(301) 972-7990,Dr. LaVerne G. Kimball,Poolesville,94.3,,5,,,,,,,"18801 Barnesville Road
+Dickerson, MD 20842
+(39.22384591600007, -77.39381455499995)"
+2014,702,Damascus ES,Mr. Sean P. McGee,(301) 253-7080,Dr. LaVerne G. Kimball,Damascus,95,,8.9,,,,,,,"10201 Bethesda Church Road
+Damascus, MD 20872
+(39.284987683000054, -77.21173593699996)"
+2014,570,Diamond ES,Mrs. Carol A. Lange,(301) 840-7177,Dr. LaVerne G. Kimball,"Northwest, Q.Orchard",95,,15.9,,,,,,,"4 Marquis Drive
+Gaithersburg, MD 20878
+(39.13487762700004, -77.23841932699997)"
+2014,507,William H. Farquhar MS,Mrs. Diane D. Morris,(301) 924-3100,Dr. Darryl L. Williams,"NE Consort.,Sherwood",95,,5,,,,,,,"16915 Batchellors Forest Road
+Olney, MD 20832
+(39.13535236700005, -77.04558381299995)"
+2014,505,Lucy V. Barnsley ES,Mr. Andrew J. Winter,(301) 460-2121,Dr. Donna S. Hollingshead,Rockville,95,,9.7,,,,,,,"14516 Nadine Drive
+Rockville, MD 20853
+(39.09461166800003, -77.10291041199997)"
+2014,322,Community Montessori Charter,Mrs. Karen E. Caroscio,(301) 929-2505,Dr. LaVerne G. Kimball,N/A,92,,,,,,,,,"3015 Upton Drive
+Kensington, MD 20895
+(39.04014239000003, -77.06036326499998)"
+2014,522,Lakelands Park MS,Mrs. Deborah R. Higdon,(301) 670-1400,Dr. Darryl L. Williams,"Northwest, Quince Orchard",95,,10.1,,,,,,,"1200 Main Street
+Gaithersburg, MD 20878
+(39.11622746900008, -77.23237102599995)"
+2014,776,Montgomery Knolls ES,Mr. Bertram B. Generlette,(301) 431-7667,Ms. Bronda L. Mills,Downcounty Consortium,94.7,,16.8,,,,,,,"807 Daleview Drive Silver Spring
+MD 20901
+(39.00596494200005, -76.99489732599994)"
+2014,786,Georgian Forest ES,"Mrs. Kimberly D. Rogers, Acting",(301) 460-2170,Ms. Bronda L. Mills,Downcounty Consortium,94.4,,33.7,,,,,,,"3100 Regina Drive Silver Spring
+MD 20906
+(39.07570334600007, -77.06229305199997)"
+2014,310,Cannon Road ES,Mr. Norman L. Coleman,(301) 989-5662,Dr. Myra J. Smith,Northeast Consortium,95,,11.9,,,,,,,"901 Cannon Road
+Silver Spring, MD 20904
+(39.069493700000066, -76.99411368899996)"
+2014,779,Sargent Shriver ES,Mrs. Tamisha L. Sampson,(301) 929-4426,Ms. Bronda L. Mills,"Downcounty Consortium, Wheaton",95,,15,,,,,,,"12518 Greenly Drive Silver Spring
+MD 20906
+(39.06020861300004, -77.07977431899997)"
+2014,559,Brown Station ES,Dr. Carl L. Baskerville,(301) 840-7172,Dr. LaVerne G. Kimball,Quince Orchard,94.9,,22.2,,,,,,,"851 Quince Orchard Boulevard
+Gaithersburg, MD 20878
+(39.13776294000007, -77.23040175099999)"
+2014,247,John Poole MS,Ms. Charlotte W. Boucher,(301) 972-7979,Dr. Darryl L. Williams,Poolesville,94.4,,5,,,,,,,"17014 Tom Fox Avenue
+Poolesville, MD 20837
+(39.12676922800006, -77.40962048699998)"
+2014,755,Takoma Park MS,Miss Alicia M. Deeny,(301) 650-6444,Dr. Darryl L. Williams,Downcounty Consortium,95,,7.6,,,,,,,"7611 Piney Branch Road Silver Spring
+MD 20910
+(38.98539038400003, -77.01424681699996)"
+2014,916,Rock Terrace School,"Mrs. Katherine W. Lertora, Acting",(301) 279-4940,Dr. Christopher S. Garran,Walter Johnson,93.4,5,8.1,,,,,,,"390 Martins Lane
+Rockville, MD 20850
+(39.09261653900006, -77.15922069399994)"
+2014,757,Montgomery Blair HS,Mrs. Renay C. Johnson,(301) 649-2800,Dr. Christopher S. Garran,Downcounty Consortium,94.7,9.4,9.9,94,5,5,60.7,85.4,81.8,"51 University Boulevard
+East Silver Spring, MD 20901
+(39.02066106500007, -77.01315518199993)"
+2014,427,Walt Whitman HS,Dr. Alan S. Goodwin,(301) 320-6600,Dr. Christopher S. Garran,Walt Whitman,95,5,8.7,95,5,5,40.8,95,86.1,"7100 Whittier Boulevard
+Bethesda, MD 20817
+(38.981377929000075, -77.12573759999998)"
+2014,109,Waters Landing ES,Mrs. Tina W. Shrewsbury,(301) 353-0915,Dr. LaVerne G. Kimball,Seneca Valley,95,,19.9,,,,,,,"13100 Waters Landing Drive
+Germantown, MD 20874
+(39.18954292300003, -77.26798257699994)"
+2014,506,Flower Valley ES,Mrs. Gay E. Melnick,(301) 924-3135,Dr. Donna S. Hollingshead,Rockville,95,,8,,,,,,,"4615 Sunflower Drive
+Rockville, MD 20853
+(39.10483764000003, -77.09329980299998)"
+2014,510,Col. Zadok Magruder HS,Mr. Leroy C. Evans,(301) 840-4600,Dr. Christopher S. Garran,Col. Zadok Magruder,94,6.2,11.8,90.5,5,5,53,88.6,73.1,"5939 Muncaster Mill Road
+Rockville, MD 20855
+(39.130182078000075, -77.11911782999994)"
+2014,504,Westover ES,Dr. Patricia A. Kelly,(301) 989-5676,Dr. Myra J. Smith,Northeast Consortium,95,,12.2,,,,,,,"401 Hawkesbury Lane Silver Spring
+MD 20904
+(39.07426529900005, -77.01745430999995)"
+2014,566,Fields Road ES,Mrs. Kathryn S. Rupp,(301) 840-7131,Dr. LaVerne G. Kimball,Quince Orchard,95,,11.1,,,,,,,"One School Drive
+Gaithersburg, MD 20878
+(39.11827204100007, -77.21481782499995)"
+2014,244,Thurgood Marshall ES,Mrs. Pamela S. Nazzaro,(301) 670-8282,Dr. LaVerne G. Kimball,Quince Orchard,95,,13.1,,,,,,,"12260 McDonald Chapel Drive
+Gaithersburg, MD 20878
+(39.12517697200008, -77.25913866199994)"
+2014,561,Watkins Mill ES,Ms. Stephanie G. Spencer,(301) 840-7181,Dr. LaVerne G. Kimball,Watkins Mill,94.4,,22.8,,,,,,,"19001 Watkins Mill Road Montgomery Village
+MD 20886
+(39.16762328800007, -77.21178809899999)"
+2014,602,Winston Churchill HS,Dr. Joan Benz,(301) 469-1200,Dr. Christopher S. Garran,Winston Churchill,95,5,5,95,5,5,48.6,95,94.5,"11300 Gainsborough Road
+Potomac, MD 20854
+(39.04386162700007, -77.17169802999996)"
+2014,517,Sligo Creek ES,Mrs. Diantha R. Swift,(301) 562-2722,Ms. Bronda L. Mills,Downcounty Consortium,95,,11.3,,,,,,,"500 Schuyler Road Silver Spring
+MD 20910
+(39.00113439200004, -77.01604640299996)"
+2014,235,Wayside ES,Mrs. Donna E. Michela,(301) 279-8484,Dr. Donna S. Hollingshead,Winston Churchill,95,,5,,,,,,,"10011 Glen Road
+Potomac, MD 20854
+(39.046707327000036, -77.20676614599995)"
+2014,312,William Tyler Page ES,Ms. Raushann Austin,(301) 989-5672,Dr. Myra J. Smith,Northeast Consortium,95,,10.6,,,,,,,"13400 Tamarack Road Silver Spring
+MD 20904
+(39.07513527100008, -76.98307021999995)"
+2014,234,Thomas S. Wootton HS,Dr. Michael J. Doran,(301) 279-8550,Dr. Christopher S. Garran,Thomas S. Wootton,95,5,5,95,5,5,37.3,95,90.2,"2100 Wootton Parkway
+Rockville, MD 20850
+(39.07526341300007, -77.18221671799995)"
+2014,307,Roscoe R. Nix ES,Ms. Annette M. Ffolkes,(301) 422-5070,Dr. Myra J. Smith,Northeast Consortium,94.3,,26,,,,,,,"1100 Corliss Street Silver Spring
+MD 20903
+(39.01686790200006, -76.98866276699994)"
+2014,51,Laytonsville ES,Mrs. Donna M. Sagona,(301) 840-7145,Dr. Myra J. Smith,"Damascus, Gaithersburg",95,,7,,,,,,,"21401 Laytonsville Road
+Gaithersburg, MD 20882
+(39.20726766100006, -77.14135376199994)"
+2014,787,A. Mario Loiederman MS,Ms. Nicole A. Sosik,(301) 929-2282,Dr. Darryl L. Williams,"Downcounty Consortium, Wheaton",94,,12.5,,,,,,,"12701 Goodhill Road Silver Spring
+MD 20906
+(39.06359538700008, -77.07232071599998)"
+2014,153,Poolesville ES,Mr. Douglas M. Robbins,(301) 972-7960,Dr. LaVerne G. Kimball,Poolesville,94.5,,10.6,,,,,,,"19565 Fisher Avenue
+Poolesville, MD 20837
+(39.14342755800004, -77.40809282499998)"
+2014,512,Greenwood ES,Mrs. Cheryl A. Bunyan,(301) 924-3145,Dr. Myra J. Smith,Sherwood,95,,5,,,,,,,"3336 Gold Mine Road
+Brookeville, MD 20833
+(39.16637496800007, -77.06475137299998)"
+2014,102,Germantown ES,Ms. Amy D. Bryant,(301) 353-8050,Dr. LaVerne G. Kimball,Northwest,95,,12.6,,,,,,,"19110 Liberty Mill Road
+Germantown, MD 20874
+(39.16894022900004, -77.27572560299996)"
+2014,351,Darnestown ES,Mrs. Laura S. Colgary,(301) 840-7157,Dr. LaVerne G. Kimball,Northwest,95,,5.3,,,,,,,"15030 Turkey Foot Road
+Gaithersburg, MD 20878
+(39.10268287300005, -77.28425594599997)"
+2014,220,Luxmanor ES,Mr. Ryan D. Forkert,(301) 230-5914,Dr. Donna S. Hollingshead,Walter Johnson,95,,9.5,,,,,,,"6201 Tilden Lane
+Rockville, MD 20852
+(39.04403749000005, -77.12748339599995)"
+2014,303,Fairland ES,Mrs. Tillie C. Garfinkel,(301) 989-5658,Dr. Myra J. Smith,Northeast Consortium,95,,19.3,,,,,,,"14315 Fairdale Road Silver Spring
+MD 20905
+(39.091077090000056, -76.95730058999999)"
+2014,820,Earle B. Wood MS,Dr. Traci L. Townsend,(301) 460-2150,Dr. Darryl L. Williams,Rockville,95,,9.4,,,,,,,"14615 Bauer Drive
+Rockville, MD 20853
+(39.09209031700004, -77.10875391499997)"
+2014,417,Wood Acres ES,Mrs. Marita R. Sherburne,(301) 320-6502,Dr. Donna S. Hollingshead,Walt Whitman,95,,5.6,,,,,,,"5800 Cromwell Drive
+Bethesda, MD 20816
+(38.967591621000054, -77.11779202599996)"
+2014,514,Judith A. Resnik ES,Mrs. LaTricia D. Thomas,(301) 670-8200,Dr. Myra J. Smith,Col. Zadok Magruder,95,,15,,,,,,,"7301 Hadley Farms Drive
+Gaithersburg, MD 20879
+(39.180168914000035, -77.15168291199996)"
+2014,811,White Oak MS,Ms. Virginia A. de los Santos,(301) 989-5780,Dr. Darryl L. Williams,Northeast Consortium,95,,14.6,,,,,,,"12201 New Hampshire Avenue Silver Spring
+MD 20904
+(39.055348501000026, -76.99541860499994)"
+2014,777,Weller Road ES,Ms. Michaele O. Simmons,(301) 929-2010,Ms. Bronda L. Mills,Downcounty Consortium,95,,17.8,,,,,,,"3301 Weller Road Silver Spring
+MD 20906
+(39.06447781700007, -77.06798647599999)"
+2014,503,Sherwood HS,Mr. William M. Gregory,(301) 924-3200,Dr. Christopher S. Garran,Sherwood,95,5,9.2,95,5,5,54.2,92.9,85.2,"300 Olney-Sandy Spring Road Sandy Spring
+MD 20860
+(39.14908888200006, -77.01757946999999)"
+2014,248,Forest Oak MS,Mr. Arthur Williams,(301) 670-8242,Dr. Darryl L. Williams,Gaithersburg,95,,14.9,,,,,,,"651 Saybrooke Oaks Boulevard
+Gaithersburg, MD 20877
+(39.15235347200007, -77.18379322799996)"
+2014,552,Washington Grove ES,Mrs. Susan B. Barranger,(301) 840-7120,Dr. Myra J. Smith,Gaithersburg,95,,17.1,,,,,,,"8712 Oakmont Street
+Gaithersburg, MD 20877
+(39.133039051000026, -77.17966901799997)"
+2014,501,Sherwood ES,Mrs. Dina E. Brewer,(301) 924-3195,Dr. Myra J. Smith,"NE Consort., Sherwood",95,,7.7,,,,,,,"1401 Olney-Sandy Spring Road Sandy Spring
+MD 20860
+(39.14863718600003, -77.03284142399997)"
+2014,226,Beverly Farms ES,Dr. Beth L. Brown,(301) 469-1050,Dr. Donna S. Hollingshead,Winston Churchill,95,,5,,,,,,,"8501 Postoak Road
+Potomac, MD 20854
+(39.05224595300007, -77.17497244299994)"
+2014,201,Richard Montgomery HS,Dr. Nelson McLeod,(301) 610-8000,Dr. Christopher S. Garran,Richard Montgomery,95,5.9,11.5,95,5,5,59.9,89.3,76.3,"250 Richard Montgomery Drive
+Rockville, MD 20852
+(39.07815079300008, -77.14560648399998)"
+2014,792,Newport Mill MS,Ms. Panagiota (Penny) Tsonis,(301) 929-2244,Dr. Darryl L. Williams,Downcounty Consortium,95,,8.5,,,,,,,"11311 Newport Mill Road
+Kensington, Maryland 20895
+(39.04249839500005, -77.06899995699996)"
+2014,603,Seven Locks ES,Mr. Carl R. Bencal,(301) 469-1038,Dr. Donna S. Hollingshead,Winston Churchill,95,,10.6,,,,,,,"9500 Seven Locks Road
+Bethesda, MD 20817
+(39.01209225900004, -77.16015820699994)"
+2014,553,Gaithersburg ES,Mrs. Stephanie D. Brant,(301) 840-7136,Dr. Myra J. Smith,Gaithersburg,94,,21.4,,,,,,,"35 North Summit Avenue
+Gaithersburg, MD 20877
+(39.14391036400008, -77.19288806399999)"
+2014,237,Robert Frost MS,Dr. Joey N. Jones,(301) 279-3949,Dr. Darryl L. Williams,Thomas S. Wootton,95,,5.1,,,,,,,"9201 Scott Drive
+Rockville, MD 20850
+(39.07438392300003, -77.18837323299994)"
+2014,508,Candlewood ES,Dr. Linda B. Sheppard,(301) 840-7167,Dr. Myra J. Smith,Col. Zadok Magruder,95,,9.4,,,,,,,"18100 Washington Grove Lane
+Gaithersburg, MD 20879
+(39.15351846500005, -77.16434091499997)"
+2014,305,Jackson Road ES,Mrs. Sally A. Macias,(301) 989-5650,Dr. Myra J. Smith,Northeast Consortium,95,,18,,,,,,,"900 Jackson Road Silver Spring
+MD 20904
+(39.055848378000064, -76.99222164299994)"
+2014,308,Cloverly ES,Ms. Melissa A. Brunson,(301) 989-5770,Dr. Myra J. Smith,Northeast Consortium,95,,8.5,,,,,,,"800 Briggs Chaney Road Silver Spring
+MD 20905
+(39.10693709700007, -76.99421969899998)"
+2014,513,Belmont ES,Mr. Evan J. Pinkowitz,(301) 924-3140,Dr. Myra J. Smith,Sherwood,95,,5,,,,,,,"19528 Olney Mill Road
+Olney, MD 20832
+(39.17793296200006, -77.06657590499998)"
+2014,782,Wheaton HS,Mr. Bennie W. Green,(301) 929-2050,Dr. Christopher S. Garran,Downcounty Consortium,94,12.6,14.3,89.2,5,5,68.5,76.1,65.4,"12601 Dalewood Drive Silver Spring
+MD 20906
+(39.06115426000008, -77.06829670699994)"
+2014,815,John F. Kennedy HS,"Mr. Joe L. Rubens, Jr., Acting",(301) 929-2100,Dr. Christopher S. Garran,Downcounty Consortium,93.4,8.8,13.7,90.2,5,5,70.9,81.5,66.8,"1901 Randolph Road Silver Spring
+MD 20902
+(39.06427463000006, -77.03937254899995)"
+2014,807,Brookhaven ES,Mr. Shahid A. Muhammad,(301) 460-2140,Ms. Bronda L. Mills,Downcounty Consortium,95,,15.5,,,,,,,"4610 Renn Street
+Rockville, MD 20853
+(39.082749712000066, -77.09112749699995)"
